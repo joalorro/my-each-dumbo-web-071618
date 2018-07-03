@@ -9,7 +9,3 @@ def my_each array
   array
 end
 
-my_each array do |lyrics|
-  lyrics
-end
-
